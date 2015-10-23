@@ -31,3 +31,6 @@
 
 #### 0.10 - October 23 2015
 * Releasing the SAS type provider
+
+#### 0.11 - October 23 2015
+* Releasing the SAS type provider with minor tweaks in documentation
